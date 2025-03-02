@@ -7,7 +7,7 @@
         "builds": [
             {
                 "name": "Best",
-                "set": "mystic_wanderer",
+                "set": "mysterious_wanderer",
                 "artifact": "kohlrabi",
                 "rolls": {
                     "elemental_atk": 1,
