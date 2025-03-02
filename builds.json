@@ -1,0 +1,40 @@
+{
+    "kohlrabi": {
+        "element": "dark",
+        "rarity": "epic",
+        "type": "magic",
+        "role": "fighter",
+        "builds": [
+            {
+                "name": "Best",
+                "set": "mystic_wanderer",
+                "artifact": "kohlrabi",
+                "rolls": {
+                    "elemental_atk": 1,
+                    "atk": 1,
+                    "crit_rate": 4,
+                    "crit_dmg": 2
+                }
+            },
+            {
+                "name": "C.Raid Debuff",
+                "set": "ghost_captain",
+                "artifact": "going_beyond",
+                "rolls": {
+                    "elemental_atk": 1,
+                    "crit_rate": 5,
+                    "crit_dmg": 2
+                }
+            },
+            {
+                "name": "Pre-4*",
+                "set": "count_of_darkness",
+                "artifact": "kohlrabi",
+                "rolls": {
+                    "elemental_atk": 2,
+                    "atk": 6
+                }
+            }
+        ]
+    }
+}
