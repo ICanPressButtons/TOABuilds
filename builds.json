@@ -36,5 +36,47 @@
                 }
             }
         ]
+    },
+    
+    "lemon_zest": {
+        "element": "light",
+        "rarity": "epic",
+        "type": "ranged",
+        "role": "fighter",
+        "builds": [
+            {
+                "name": "Best (w/ Lemon)",
+                "set": "suspicious_hunter",
+                "artifact": "rye",
+                "rolls": {
+                    "elemental_atk": 2,
+                    "atk": 3,
+                    "crit_rate": 2,
+                    "crit_dmg": 1
+                }
+            },
+            {
+                "name": "Best (w/o Lemon)",
+                "set": "suspicious_hunter",
+                "artifact": "rye",
+                "rolls": {
+                    "elemental_atk": 2,
+                    "atk": 1,
+                    "crit_rate": 2,
+                    "crit_dmg": 3
+                }
+            },
+            {
+                "name": "Labyrinth",
+                "set": "sugar_feather",
+                "artifact": "jalapeno",
+                "rolls": {
+                    "elemental_atk": 2,
+                    "atk": 2,
+                    "crit_rate": 2,
+                    "crit_dmg": 2
+                }
+            }
+        ]
     }
 }
