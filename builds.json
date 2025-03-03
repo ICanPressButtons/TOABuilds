@@ -98,7 +98,7 @@
             {
                 "name": "C.Raid Debuff",
                 "set": "ghost_captain",
-                "artifact": "rye",
+                "artifact": "durian",
                 "rolls": {
                     "elemental_atk": 2,
                     "atk": 6
@@ -107,7 +107,7 @@
             {
                 "name": "Labyrinth",
                 "set": "earth_descendant",
-                "artifact": "jalapeno",
+                "artifact": "durian",
                 "rolls": {
                     "elemental_atk": 2,
                     "atk": 6
