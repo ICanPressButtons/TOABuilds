@@ -78,5 +78,41 @@
                 }
             }
         ]
+    },
+
+    "sting_durian": {
+        "element": "earth",
+        "rarity": "epic",
+        "type": "ranged",
+        "role": "fighter",
+        "builds": [
+            {
+                "name": "Best",
+                "set": "tbd",
+                "artifact": "durian",
+                "rolls": {
+                    "elemental_atk": 2,
+                    "atk": 6
+                }
+            },
+            {
+                "name": "C.Raid Debuff",
+                "set": "ghost_captain",
+                "artifact": "rye",
+                "rolls": {
+                    "elemental_atk": 2,
+                    "atk": 6
+                }
+            },
+            {
+                "name": "Labyrinth",
+                "set": "earth_descendant",
+                "artifact": "jalapeno",
+                "rolls": {
+                    "elemental_atk": 2,
+                    "atk": 6
+                }
+            }
+        ]
     }
 }
